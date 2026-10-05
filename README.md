@@ -7,4 +7,4 @@ This Python program accepts a sentence input from the user, validates whether th
 1. Open the PyCharm terminal.
 2. Run the script:
    ```bash
-   python main.py
+   python main.py"# csc649" 
